@@ -1,3 +1,6 @@
-# PSIP_jo_L1
-- Jakub - chełmski
-- Julia - hajnowski
+# PSIP\_jo\_L1
+
+* Jakub - chełmski
+* Julia - hajnowski
+* Maciej - kutnowski
+
